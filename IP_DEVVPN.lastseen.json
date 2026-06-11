@@ -1724,7 +1724,7 @@
                                       ]
                       },
     "44.194.14.108":  {
-                          "lastSeen":  "2026-06-10",
+                          "lastSeen":  "2026-06-11",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
@@ -2443,6 +2443,12 @@
                                          "repo42.cursor.sh"
                                      ]
                      },
+    "54.81.101.128":  {
+                          "lastSeen":  "2026-06-11",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "54.82.20.13":  {
                         "lastSeen":  "2026-06-01",
                         "domains":  [
