@@ -318,6 +318,12 @@
                                          "metrics.cursor.sh"
                                      ]
                      },
+    "3.218.167.213":  {
+                          "lastSeen":  "2026-06-12",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "3.218.176.152":  {
                           "lastSeen":  "2026-06-12",
                           "domains":  [
