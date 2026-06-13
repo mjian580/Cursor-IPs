@@ -3987,6 +3987,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "100.51.16.214":  {
+                          "lastSeen":  "2026-06-14",
+                          "domains":  [
+                                          "metrics.cursor.sh"
+                                      ]
+                      },
     "100.51.18.146":  {
                           "lastSeen":  "2026-06-13",
                           "domains":  [
