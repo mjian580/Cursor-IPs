@@ -1669,6 +1669,12 @@
                                           "repo42.cursor.sh"
                                       ]
                       },
+    "34.225.121.111":  {
+                           "lastSeen":  "2026-06-15",
+                           "domains":  [
+                                           "api2.cursor.sh"
+                                       ]
+                       },
     "34.225.146.27":  {
                           "lastSeen":  "2026-06-15",
                           "domains":  [
