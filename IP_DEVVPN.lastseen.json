@@ -181,7 +181,7 @@
                                       ]
                       },
     "3.212.229.130":  {
-                          "lastSeen":  "2026-06-16",
+                          "lastSeen":  "2026-06-17",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
@@ -211,7 +211,7 @@
                                       ]
                       },
     "3.214.197.98":  {
-                         "lastSeen":  "2026-06-16",
+                         "lastSeen":  "2026-06-17",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -518,6 +518,12 @@
                    },
     "3.232.88.221":  {
                          "lastSeen":  "2026-06-14",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
+    "3.232.90.115":  {
+                         "lastSeen":  "2026-06-17",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -2570,7 +2576,7 @@
                                      ]
                      },
     "52.72.169.28":  {
-                         "lastSeen":  "2026-06-16",
+                         "lastSeen":  "2026-06-17",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -3465,6 +3471,12 @@
                                         "api2.cursor.sh"
                                     ]
                     },
+    "98.88.51.138":  {
+                         "lastSeen":  "2026-06-17",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "98.88.52.129":  {
                          "lastSeen":  "2026-06-14",
                          "domains":  [
