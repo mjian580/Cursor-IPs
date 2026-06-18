@@ -679,6 +679,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "13.217.67.93":  {
+                         "lastSeen":  "2026-06-18",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "13.217.154.251":  {
                            "lastSeen":  "2026-06-11",
                            "domains":  [
@@ -3260,6 +3266,12 @@
                                            "agentn.us.api5.cursor.sh"
                                        ]
                        },
+    "54.221.71.182":  {
+                          "lastSeen":  "2026-06-18",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "54.221.251.131":  {
                            "lastSeen":  "2026-06-14",
                            "domains":  [
