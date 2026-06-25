@@ -3879,6 +3879,12 @@
                                          "us-only.gcpp.cursor.sh"
                                      ]
                      },
+    "100.24.220.84":  {
+                          "lastSeen":  "2026-06-25",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "100.24.244.212":  {
                            "lastSeen":  "2026-06-11",
                            "domains":  [
