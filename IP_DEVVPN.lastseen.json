@@ -133,7 +133,7 @@
                                     ]
                     },
     "3.213.97.81":  {
-                        "lastSeen":  "2026-06-30",
+                        "lastSeen":  "2026-07-01",
                         "domains":  [
                                         "api2.cursor.sh"
                                     ]
@@ -313,7 +313,7 @@
                                       ]
                       },
     "3.224.254.76":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -445,13 +445,13 @@
                                    ]
                    },
     "3.234.203.93":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
                      },
     "13.57.67.213":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "agentn.api5.cursor.sh",
                                          "agentn.us.api5.cursor.sh"
@@ -494,7 +494,7 @@
                                        ]
                        },
     "13.219.53.41":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -1064,7 +1064,7 @@
                                        ]
                        },
     "34.197.247.23":  {
-                          "lastSeen":  "2026-06-30",
+                          "lastSeen":  "2026-07-01",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
@@ -1988,7 +1988,7 @@
                                      ]
                      },
     "52.7.59.161":  {
-                        "lastSeen":  "2026-06-30",
+                        "lastSeen":  "2026-07-01",
                         "domains":  [
                                         "api2.cursor.sh"
                                     ]
@@ -2191,6 +2191,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "52.71.176.47":  {
+                         "lastSeen":  "2026-07-01",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "52.72.11.138":  {
                          "lastSeen":  "2026-06-27",
                          "domains":  [
@@ -2228,7 +2234,7 @@
                                      ]
                      },
     "52.86.94.160":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -2486,7 +2492,7 @@
                                     ]
                     },
     "54.85.133.41":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -2582,7 +2588,7 @@
                                        ]
                        },
     "54.156.72.74":  {
-                         "lastSeen":  "2026-06-30",
+                         "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -2660,7 +2666,7 @@
                                       ]
                       },
     "54.161.227.156":  {
-                           "lastSeen":  "2026-06-30",
+                           "lastSeen":  "2026-07-01",
                            "domains":  [
                                            "api2.cursor.sh"
                                        ]
@@ -2810,7 +2816,7 @@
                                      ]
                      },
     "54.215.198.191":  {
-                           "lastSeen":  "2026-06-30",
+                           "lastSeen":  "2026-07-01",
                            "domains":  [
                                            "agentn.api5.cursor.sh",
                                            "agentn.us.api5.cursor.sh"
