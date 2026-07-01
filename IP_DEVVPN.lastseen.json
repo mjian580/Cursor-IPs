@@ -138,6 +138,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "3.213.55.201":  {
+                         "lastSeen":  "2026-07-01",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "3.213.68.75":  {
                         "lastSeen":  "2026-06-19",
                         "domains":  [
@@ -991,6 +997,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "32.197.159.240":  {
+                           "lastSeen":  "2026-07-01",
+                           "domains":  [
+                                           "api2.cursor.sh"
+                                       ]
+                       },
     "32.198.128.126":  {
                            "lastSeen":  "2026-07-01",
                            "domains":  [
@@ -3549,6 +3561,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "100.48.139.120":  {
+                           "lastSeen":  "2026-07-01",
+                           "domains":  [
+                                           "api2.cursor.sh"
+                                       ]
+                       },
     "100.48.202.255":  {
                            "lastSeen":  "2026-06-25",
                            "domains":  [
@@ -3910,6 +3928,12 @@
                                        ]
                        },
     "100.60.1.134":  {
+                         "lastSeen":  "2026-07-01",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
+    "100.60.33.44":  {
                          "lastSeen":  "2026-07-01",
                          "domains":  [
                                          "api2.cursor.sh"
