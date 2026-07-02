@@ -1621,6 +1621,12 @@
                                          "api4.cursor.sh"
                                      ]
                      },
+    "35.153.62.15":  {
+                         "lastSeen":  "2026-07-02",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "35.153.79.29":  {
                          "lastSeen":  "2026-07-01",
                          "domains":  [
