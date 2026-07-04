@@ -3037,6 +3037,30 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "54.192.117.2":  {
+                         "lastSeen":  "2026-07-04",
+                         "domains":  [
+                                         "status.cursor.com"
+                                     ]
+                     },
+    "54.192.117.63":  {
+                          "lastSeen":  "2026-07-04",
+                          "domains":  [
+                                          "status.cursor.com"
+                                      ]
+                      },
+    "54.192.117.80":  {
+                          "lastSeen":  "2026-07-04",
+                          "domains":  [
+                                          "status.cursor.com"
+                                      ]
+                      },
+    "54.192.117.101":  {
+                           "lastSeen":  "2026-07-04",
+                           "domains":  [
+                                           "status.cursor.com"
+                                       ]
+                       },
     "54.196.22.248":  {
                           "lastSeen":  "2026-07-01",
                           "domains":  [
