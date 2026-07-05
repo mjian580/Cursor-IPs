@@ -2587,6 +2587,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "54.83.233.43":  {
+                         "lastSeen":  "2026-07-05",
+                         "domains":  [
+                                         "metrics.cursor.sh"
+                                     ]
+                     },
     "54.84.44.222":  {
                          "lastSeen":  "2026-06-25",
                          "domains":  [
