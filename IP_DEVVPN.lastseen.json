@@ -2726,11 +2726,17 @@
                                       ]
                       },
     "54.161.14.44":  {
-                         "lastSeen":  "2026-07-05",
+                         "lastSeen":  "2026-07-06",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
                      },
+    "54.161.113.35":  {
+                          "lastSeen":  "2026-07-06",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "54.161.211.39":  {
                           "lastSeen":  "2026-06-28",
                           "domains":  [
