@@ -559,6 +559,12 @@
                                          "agentn.us.api5.cursor.sh"
                                      ]
                      },
+    "13.216.31.28":  {
+                         "lastSeen":  "2026-07-08",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "13.216.43.167":  {
                           "lastSeen":  "2026-07-01",
                           "domains":  [
