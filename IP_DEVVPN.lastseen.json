@@ -558,6 +558,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "3.234.123.145":  {
+                          "lastSeen":  "2026-07-10",
+                          "domains":  [
+                                          "repo42.cursor.sh"
+                                      ]
+                      },
     "3.234.203.93":  {
                          "lastSeen":  "2026-07-04",
                          "domains":  [
@@ -1688,7 +1694,7 @@
                                        ]
                        },
     "35.171.68.233":  {
-                          "lastSeen":  "2026-07-09",
+                          "lastSeen":  "2026-07-10",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
@@ -2240,7 +2246,7 @@
                                     ]
                     },
     "52.21.171.49":  {
-                         "lastSeen":  "2026-07-09",
+                         "lastSeen":  "2026-07-10",
                          "domains":  [
                                          "api2.cursor.sh"
                                      ]
@@ -3147,7 +3153,7 @@
                                       ]
                       },
     "54.235.191.15":  {
-                          "lastSeen":  "2026-07-09",
+                          "lastSeen":  "2026-07-10",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
