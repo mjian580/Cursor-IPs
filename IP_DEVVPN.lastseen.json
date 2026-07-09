@@ -1753,12 +1753,24 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "35.175.4.2":  {
+                       "lastSeen":  "2026-07-09",
+                       "domains":  [
+                                       "api2.cursor.sh"
+                                   ]
+                   },
     "35.175.65.30":  {
                          "lastSeen":  "2026-07-09",
                          "domains":  [
                                          "repo42.cursor.sh"
                                      ]
                      },
+    "44.193.50.248":  {
+                          "lastSeen":  "2026-07-09",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "44.193.145.164":  {
                            "lastSeen":  "2026-07-01",
                            "domains":  [
