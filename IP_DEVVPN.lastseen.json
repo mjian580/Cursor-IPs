@@ -96,6 +96,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "3.209.22.70":  {
+                        "lastSeen":  "2026-07-09",
+                        "domains":  [
+                                        "api2.cursor.sh"
+                                    ]
+                    },
     "3.209.63.18":  {
                         "lastSeen":  "2026-07-08",
                         "domains":  [
