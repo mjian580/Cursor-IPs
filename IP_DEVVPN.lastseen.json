@@ -722,7 +722,7 @@
                                       ]
                       },
     "18.235.44.176":  {
-                          "lastSeen":  "2026-07-16",
+                          "lastSeen":  "2026-07-17",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
@@ -1947,6 +1947,12 @@
                      },
     "52.2.59.232":  {
                         "lastSeen":  "2026-07-04",
+                        "domains":  [
+                                        "api2.cursor.sh"
+                                    ]
+                    },
+    "52.2.238.43":  {
+                        "lastSeen":  "2026-07-17",
                         "domains":  [
                                         "api2.cursor.sh"
                                     ]
