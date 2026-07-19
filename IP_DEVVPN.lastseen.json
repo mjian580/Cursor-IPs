@@ -577,6 +577,12 @@
                                         "status.cursor.com"
                                     ]
                     },
+    "18.204.50.165":  {
+                          "lastSeen":  "2026-07-19",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "18.204.123.66":  {
                           "lastSeen":  "2026-07-05",
                           "domains":  [
