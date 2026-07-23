@@ -943,6 +943,12 @@
                                          "api2.cursor.sh"
                                      ]
                      },
+    "34.192.1.44":  {
+                        "lastSeen":  "2026-07-23",
+                        "domains":  [
+                                        "api2.cursor.sh"
+                                    ]
+                    },
     "34.192.214.174":  {
                            "lastSeen":  "2026-07-11",
                            "domains":  [
