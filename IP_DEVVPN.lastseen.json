@@ -979,6 +979,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "34.197.24.80":  {
+                         "lastSeen":  "2026-07-25",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "34.197.239.123":  {
                            "lastSeen":  "2026-07-17",
                            "domains":  [
@@ -2751,6 +2757,12 @@
                                          "us-only.gcpp.cursor.sh"
                                      ]
                      },
+    "100.24.157.78":  {
+                          "lastSeen":  "2026-07-25",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "100.24.179.132":  {
                            "lastSeen":  "2026-07-25",
                            "domains":  [
