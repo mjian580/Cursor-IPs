@@ -2943,6 +2943,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "100.50.79.140":  {
+                          "lastSeen":  "2026-07-25",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "100.50.94.126":  {
                           "lastSeen":  "2026-07-25",
                           "domains":  [
