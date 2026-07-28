@@ -3105,6 +3105,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "107.22.5.195":  {
+                         "lastSeen":  "2026-07-28",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "107.22.30.115":  {
                           "lastSeen":  "2026-07-21",
                           "domains":  [
