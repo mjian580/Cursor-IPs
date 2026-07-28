@@ -132,6 +132,12 @@
                                          "api2.cursor.sh"
                                      ]
                      },
+    "3.212.69.255":  {
+                         "lastSeen":  "2026-07-28",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "3.212.170.69":  {
                          "lastSeen":  "2026-07-28",
                          "domains":  [
@@ -583,6 +589,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "18.214.86.240":  {
+                          "lastSeen":  "2026-07-28",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "18.214.101.28":  {
                           "lastSeen":  "2026-07-25",
                           "domains":  [
@@ -823,6 +835,12 @@
                                            "api2.cursor.sh"
                                        ]
                        },
+    "32.199.254.42":  {
+                          "lastSeen":  "2026-07-28",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
     "34.192.1.44":  {
                         "lastSeen":  "2026-07-28",
                         "domains":  [
@@ -2759,6 +2777,12 @@
                        },
     "100.48.244.86":  {
                           "lastSeen":  "2026-07-16",
+                          "domains":  [
+                                          "api2.cursor.sh"
+                                      ]
+                      },
+    "100.49.80.184":  {
+                          "lastSeen":  "2026-07-28",
                           "domains":  [
                                           "api2.cursor.sh"
                                       ]
