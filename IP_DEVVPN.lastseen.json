@@ -1765,6 +1765,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "52.55.29.102":  {
+                         "lastSeen":  "2026-08-01",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "52.55.60.231":  {
                          "lastSeen":  "2026-07-27",
                          "domains":  [
@@ -2035,6 +2041,12 @@
                                           "api2.cursor.sh"
                                       ]
                       },
+    "54.86.172.9":  {
+                        "lastSeen":  "2026-08-01",
+                        "domains":  [
+                                        "api2.cursor.sh"
+                                    ]
+                    },
     "54.86.215.101":  {
                           "lastSeen":  "2026-07-22",
                           "domains":  [
