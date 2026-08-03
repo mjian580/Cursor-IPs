@@ -2481,6 +2481,12 @@
                                          "repo42.cursor.sh"
                                      ]
                      },
+    "98.83.240.38":  {
+                         "lastSeen":  "2026-08-03",
+                         "domains":  [
+                                         "api2.cursor.sh"
+                                     ]
+                     },
     "98.84.59.79":  {
                         "lastSeen":  "2026-08-03",
                         "domains":  [
